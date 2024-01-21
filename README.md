@@ -1,4 +1,4 @@
-# WWW 2023 submission FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval 
+# submission FairSync
 
 ## Prerequisites
 
