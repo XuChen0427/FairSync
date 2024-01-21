@@ -1,4 +1,4 @@
-# submission FairSync
+# zubmission FairSync
 
 ## Prerequisites
 
