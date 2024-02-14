@@ -1,4 +1,6 @@
-# Submission FairSync
+# FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval of WWW'24
+## Xu Chen, Ph.D. student of Renming University of China, GSAI
+Any question, please mail to xc_chen@ruc.edu.cn
 
 ## Prerequisites
 
@@ -53,4 +55,20 @@ For other parameters see:
 | topN | int   | Retreival number,  please make sure the model is trained in the first step         |
 | FairSync_lr | float | The dual updating learning rate                                                    |
 | eval_batch_size | int   | The performing batch size B in the paper                                           |
+
+
+##For citation, please cite the following bib
+```
+@inproceedings{Xu-FairSync-WWW24,
+author = {Xu, Chen and Jun Xu and Yiming Ding and Xiao Zhang and Qi Qi},
+title = {FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval},
+year = {2024},
+isbn = {979-8-4007-0171-9/24/05},
+publisher = {Association for Computing Machinery},
+address = {Singapore, Singapore},
+doi = {10.1145/3589334.3645413},
+booktitle = {Proceedings of the ACM Web Conference 2024 (WWW '24)},
+series = {WWW '24}
+}
+```
 
